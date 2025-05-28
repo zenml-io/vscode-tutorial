@@ -2,9 +2,9 @@
 
 This VS Code extension provides an interactive, hands-on learning experience for ZenML - the open-source MLOps framework. Master ZenML fundamentals through 10 guided pipeline examples with step-by-step tutorials and one-click execution!
 
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-  <img src="../assets/architecture.png" alt="Architecture" height="500" />
-  <img src="../assets/demo-screenshot.png" alt="Demo screenshot" height="500" />
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+  <img src="assets/architecture.png" alt="Architecture"  />
+  <img src="assets/demo-screenshot.png" alt="Demo screenshot" height="450" />
 </div>
 
 ## ✨ What You'll Learn
